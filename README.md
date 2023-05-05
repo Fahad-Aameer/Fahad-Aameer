@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fahadaameer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nL_ZaBt00FQM3MdBFs5BRUunzCDSXfAA/view?usp=sharing](https://drive.google.com/file/d/1HQnlYM_OFSYxvBOWIupZYL_hNmkr9ViF/view?usp=share_link)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1HQnlYM_OFSYxvBOWIupZYL_hNmkr9ViF/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
