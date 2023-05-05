@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/fahadaameer" target="blank"><img src="https://img.shields.io/twitter/follow/fahadaameer?logo=twitter&style=for-the-badge" alt="fahadaameer" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Game development and Python**
+- 💬 Ask me about **Web development, Game development and Python**
 
 - 📫 How to reach me **fahadaameer@gmail.com**
 
